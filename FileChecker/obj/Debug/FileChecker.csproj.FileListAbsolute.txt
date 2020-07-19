@@ -1,0 +1,16 @@
+E:\DemoWork\FileChecker\FileChecker\obj\Debug\FileChecker.csprojResolveAssemblyReference.cache
+E:\DemoWork\FileChecker\FileChecker\obj\Debug\FileChecker.FrmMain.resources
+E:\DemoWork\FileChecker\FileChecker\obj\Debug\FileChecker.Properties.Resources.resources
+E:\DemoWork\FileChecker\FileChecker\obj\Debug\FileChecker.csproj.GenerateResource.Cache
+E:\DemoWork\FileChecker\FileChecker\bin\Debug\FileChecker.exe.config
+E:\DemoWork\FileChecker\FileChecker\bin\Debug\FileChecker.exe
+E:\DemoWork\FileChecker\FileChecker\bin\Debug\FileChecker.pdb
+E:\DemoWork\FileChecker\FileChecker\bin\Debug\FileChecker.Core.dll
+E:\DemoWork\FileChecker\FileChecker\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\DemoWork\FileChecker\FileChecker\bin\Debug\Microsoft.Web.Administration.dll
+E:\DemoWork\FileChecker\FileChecker\bin\Debug\Microsoft.Web.Management.dll
+E:\DemoWork\FileChecker\FileChecker\bin\Debug\Winista.HtmlParser.dll
+E:\DemoWork\FileChecker\FileChecker\bin\Debug\FileChecker.Core.pdb
+E:\DemoWork\FileChecker\FileChecker\bin\Debug\HtmlAgilityPack.xml
+E:\DemoWork\FileChecker\FileChecker\obj\Debug\FileChecker.exe
+E:\DemoWork\FileChecker\FileChecker\obj\Debug\FileChecker.pdb

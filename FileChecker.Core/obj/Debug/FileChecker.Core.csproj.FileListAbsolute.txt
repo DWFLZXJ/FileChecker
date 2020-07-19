@@ -1,0 +1,5 @@
+E:\DemoWork\FileChecker\FileChecker.Core\bin\Debug\FileChecker.Core.dll
+E:\DemoWork\FileChecker\FileChecker.Core\bin\Debug\FileChecker.Core.pdb
+E:\DemoWork\FileChecker\FileChecker.Core\bin\Debug\Microsoft.Web.Administration.dll
+E:\DemoWork\FileChecker\FileChecker.Core\obj\Debug\FileChecker.Core.dll
+E:\DemoWork\FileChecker\FileChecker.Core\obj\Debug\FileChecker.Core.pdb

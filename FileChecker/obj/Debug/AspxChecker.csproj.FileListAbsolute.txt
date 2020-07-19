@@ -1,0 +1,13 @@
+H:\MySvn\OsChina\epointsoft\AspxChecker\AspxChecker\bin\Debug\AspxChecker.exe
+H:\MySvn\OsChina\epointsoft\AspxChecker\AspxChecker\bin\Debug\AspxChecker.pdb
+H:\MySvn\OsChina\epointsoft\AspxChecker\AspxChecker\bin\Debug\AspxChecker.Core.dll
+H:\MySvn\OsChina\epointsoft\AspxChecker\AspxChecker\bin\Debug\AspxChecker.Core.pdb
+H:\MySvn\OsChina\epointsoft\AspxChecker\AspxChecker\obj\Debug\AspxChecker.csprojResolveAssemblyReference.cache
+H:\MySvn\OsChina\epointsoft\AspxChecker\AspxChecker\obj\Debug\AspxChecker.FrmMain.resources
+H:\MySvn\OsChina\epointsoft\AspxChecker\AspxChecker\obj\Debug\AspxChecker.Properties.Resources.resources
+H:\MySvn\OsChina\epointsoft\AspxChecker\AspxChecker\obj\Debug\AspxChecker.csproj.GenerateResource.Cache
+H:\MySvn\OsChina\epointsoft\AspxChecker\AspxChecker\obj\Debug\AspxChecker.exe
+H:\MySvn\OsChina\epointsoft\AspxChecker\AspxChecker\obj\Debug\AspxChecker.pdb
+H:\MySvn\OsChina\epointsoft\AspxChecker\AspxChecker\bin\Debug\ConfigFiles\config.xml
+H:\MySvn\OsChina\epointsoft\AspxChecker\AspxChecker\bin\Debug\HtmlAgilityPack.dll
+H:\MySvn\OsChina\epointsoft\AspxChecker\AspxChecker\bin\Debug\HtmlAgilityPack.xml

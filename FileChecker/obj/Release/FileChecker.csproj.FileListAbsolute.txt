@@ -1,0 +1,12 @@
+E:\DemoWork\AspxChecker\AspxChecker\bin\Release\FileChecker.exe
+E:\DemoWork\AspxChecker\AspxChecker\bin\Release\FileChecker.pdb
+E:\DemoWork\AspxChecker\AspxChecker\bin\Release\FileChecker.Core.dll
+E:\DemoWork\AspxChecker\AspxChecker\bin\Release\HtmlAgilityPack.dll
+E:\DemoWork\AspxChecker\AspxChecker\bin\Release\FileChecker.Core.pdb
+E:\DemoWork\AspxChecker\AspxChecker\bin\Release\HtmlAgilityPack.xml
+E:\DemoWork\AspxChecker\AspxChecker\obj\Release\FileChecker.csprojResolveAssemblyReference.cache
+E:\DemoWork\AspxChecker\AspxChecker\obj\Release\FileChecker.FrmMain.resources
+E:\DemoWork\AspxChecker\AspxChecker\obj\Release\FileChecker.Properties.Resources.resources
+E:\DemoWork\AspxChecker\AspxChecker\obj\Release\FileChecker.csproj.GenerateResource.Cache
+E:\DemoWork\AspxChecker\AspxChecker\obj\Release\FileChecker.exe
+E:\DemoWork\AspxChecker\AspxChecker\obj\Release\FileChecker.pdb

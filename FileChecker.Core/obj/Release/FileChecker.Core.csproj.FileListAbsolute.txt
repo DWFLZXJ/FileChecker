@@ -1,0 +1,9 @@
+E:\DemoWork\AspxChecker\AspxChecker.Core\bin\Release\FileChecker.Core.dll
+E:\DemoWork\AspxChecker\AspxChecker.Core\bin\Release\FileChecker.Core.pdb
+E:\DemoWork\AspxChecker\AspxChecker.Core\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\DemoWork\AspxChecker\AspxChecker.Core\bin\Release\Microsoft.Web.Administration.dll
+E:\DemoWork\AspxChecker\AspxChecker.Core\bin\Release\Microsoft.Web.Management.dll
+E:\DemoWork\AspxChecker\AspxChecker.Core\bin\Release\Winista.HtmlParser.dll
+E:\DemoWork\AspxChecker\AspxChecker.Core\obj\Release\FileChecker.Core.dll
+E:\DemoWork\AspxChecker\AspxChecker.Core\obj\Release\FileChecker.Core.pdb
+E:\DemoWork\AspxChecker\AspxChecker.Core\obj\Release\FileChecker.Core.csprojResolveAssemblyReference.cache

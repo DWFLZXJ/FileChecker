@@ -1,0 +1,8 @@
+H:\MySvn\OsChina\epointsoft\AspxChecker\AspxChecker.Core\bin\Debug\AspxChecker.Core.dll
+H:\MySvn\OsChina\epointsoft\AspxChecker\AspxChecker.Core\bin\Debug\AspxChecker.Core.pdb
+H:\MySvn\OsChina\epointsoft\AspxChecker\AspxChecker.Core\bin\Debug\ICSharpCode.SharpZipLib.dll
+H:\MySvn\OsChina\epointsoft\AspxChecker\AspxChecker.Core\bin\Debug\Microsoft.Web.Administration.dll
+H:\MySvn\OsChina\epointsoft\AspxChecker\AspxChecker.Core\bin\Debug\Microsoft.Web.Management.dll
+H:\MySvn\OsChina\epointsoft\AspxChecker\AspxChecker.Core\bin\Debug\Winista.HtmlParser.dll
+H:\MySvn\OsChina\epointsoft\AspxChecker\AspxChecker.Core\obj\Debug\AspxChecker.Core.dll
+H:\MySvn\OsChina\epointsoft\AspxChecker\AspxChecker.Core\obj\Debug\AspxChecker.Core.pdb

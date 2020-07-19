@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configs>
+  <!--配置忽略文件-->
+  <SkipFiles>
+    <Value>CandidatePub_Detail.aspx</Value>
+    <Value>CandidatePub_Workflow.aspx</Value>
+    <Value>ZBGS_Child_Detail.aspx</Value>
+    <Value>ZBGS_Child_Single_Detail.aspx</Value>
+    <Value>ZBGS_Detail.aspx</Value>
+    <Value>ZBGS_Workflow.aspx</Value>
+  </SkipFiles>
+  <!--配置忽略目录-->
+  <SkipFolders>
+    <Value>wwwroot</Value>
+    <Value>AttachStorage</Value>
+    <Value>DB_OA_Update</Value>
+    <Value>DB_ZTB_Update</Value>
+    <Value>DB_Frame_Update</Value>
+    <Value>EpointASPManage_WebBuilder</Value>
+    <Value>App_Browsers</Value>
+    <Value>App_Themes</Value>
+    <Value>BigFileUpLoadStorage</Value>
+    <Value>EpointMisTempFile</Value>
+    <Value>CQJYZtbMis</Value>
+    <Value>EpointZBTool_BS</Value>
+    <Value>HYManageMis</Value>
+    <Value>HuiYuanInfoMis2</Value>
+    <Value>ZHManageMis</Value>
+    <Value>EpointBid_BSTool</Value>
+    <Value>EpointZBTool_BS</Value>
+    <Value>TDJYZtbMis</Value>
+    <Value>JSGCZtbMis2</Value>
+    <Value>EpointWebProxy</Value>
+    <Value>EpointWebService</Value>
+    <Value>NetZtbMis</Value>
+    <Value>ZFCGZtbMis</Value>
+    <Value>PBZJMis</Value>
+    <Value>Front</Value>
+  </SkipFolders>
+  <!--配置应该扫描的站点-->
+  <CheckSites>
+    <Value>TPFrame</Value>
+    <Value>TPBidder</Value>
+  </CheckSites>
+</Configs>
+
